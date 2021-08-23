@@ -33,3 +33,4 @@ function App() {
 }
 
 export default App;
+//Portals also enables event delegation
